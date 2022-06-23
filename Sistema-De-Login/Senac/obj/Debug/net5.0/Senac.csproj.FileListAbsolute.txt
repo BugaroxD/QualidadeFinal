@@ -1,0 +1,12 @@
+C:\Users\jefferson.clemente\Desktop\Sistema-De-Login\Senac\obj\Debug\net5.0\Senac.csproj.AssemblyReference.cache
+C:\Users\jefferson.clemente\Desktop\Sistema-De-Login\Senac\obj\Debug\net5.0\Senac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jefferson.clemente\Desktop\Sistema-De-Login\Senac\obj\Debug\net5.0\Senac.AssemblyInfoInputs.cache
+C:\Users\jefferson.clemente\Desktop\Sistema-De-Login\Senac\obj\Debug\net5.0\Senac.AssemblyInfo.cs
+C:\Users\jefferson.clemente\Desktop\Sistema-De-Login\Senac\obj\Debug\net5.0\Senac.csproj.CoreCompileInputs.cache
+C:\Users\jefferson.clemente\Desktop\Sistema-De-Login\Senac\bin\Debug\net5.0\Senac.deps.json
+C:\Users\jefferson.clemente\Desktop\Sistema-De-Login\Senac\bin\Debug\net5.0\Senac.dll
+C:\Users\jefferson.clemente\Desktop\Sistema-De-Login\Senac\bin\Debug\net5.0\ref\Senac.dll
+C:\Users\jefferson.clemente\Desktop\Sistema-De-Login\Senac\bin\Debug\net5.0\Senac.pdb
+C:\Users\jefferson.clemente\Desktop\Sistema-De-Login\Senac\obj\Debug\net5.0\Senac.dll
+C:\Users\jefferson.clemente\Desktop\Sistema-De-Login\Senac\obj\Debug\net5.0\ref\Senac.dll
+C:\Users\jefferson.clemente\Desktop\Sistema-De-Login\Senac\obj\Debug\net5.0\Senac.pdb
